@@ -4,6 +4,7 @@ export const Text = () => {
   return (
     <div className="transparent">
       <h2>Martin Daniels</h2>
+      <h3>React Developer</h3>
       <ul>
         <li>[HTML]</li>
         <li>[CSS]</li>
