@@ -28,7 +28,7 @@ li {
   background-color: transparent;
   margin-bottom: 8px;
   transition: background-color 0.3s;
-  width: auto;
+  width: 100px;
   text-align: center;
   color: rgba(255, 255, 255, 0.8);
 }
