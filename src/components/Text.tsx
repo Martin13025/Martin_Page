@@ -11,9 +11,6 @@ export const Text = () => {
         <li>[SASS]</li>
         <li>[JS]</li>
         <li>[React]</li>
-        <li>[Next.js]</li>
-        <li>[Node.js]</li>
-        <li>[Express.js]</li>
         <li>[MySQL]</li>
         <li>[WordPress]</li>
         <li>[Git]</li>
