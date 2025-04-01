@@ -20,7 +20,7 @@ const Socials = () => {
           <i className="fab fa-github"></i>
         </a>
         <a
-          href="https://t.me/LuciusNumerius"
+          href="https://t.me/M2rR4b4t"
           target="_blank"
           className="social-icon"
         >
