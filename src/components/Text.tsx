@@ -1,5 +1,4 @@
 import "./Text.css";
-import { SiVercel } from 'react-icons/si';
 import avatar from "../assets/115161917.png";
 import {
     SiHtml5,
@@ -80,9 +79,15 @@ export const Text = () => {
                     <SiVercel />
                     <a
                         href="https://vercel.com/martin13025s-projects"
-                        style={{ textDecoration: "none", color: "white" }}
+                        style={{
+                            textDecoration: "none",
+                            color: "white",
+                            transition: "color 0.3s ease",
+                        }}
+                        onMouseOver={(e) => (e.currentTarget.style.color = "#ccc")}
+                        onMouseOut={(e) => (e.currentTarget.style.color = "white")}
                     >
-                        Versel
+                        Vercel
                     </a>
                 </li>
             </ul>
