@@ -1,4 +1,5 @@
 import "./Text.css";
+import { SiVercel } from 'react-icons/si';
 import avatar from "../assets/115161917.png";
 import {
     SiHtml5,
