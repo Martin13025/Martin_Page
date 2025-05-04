@@ -37,3 +37,12 @@ li:hover {
   background-color: rgba(255, 255, 255, 0.3);
   cursor: pointer;
 }
+
+.avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border: 2px solid white; 
+}
