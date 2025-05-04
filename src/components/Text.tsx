@@ -76,7 +76,7 @@ export const Text = () => {
             <h2>My Projects</h2>
             <ul>
                 <li>
-                    <SiVercel />{" "}
+                    <SiVercel />
                     <a
                         href="https://vercel.com/martin13025s-projects"
                         style={{ textDecoration: "none", color: "white" }}
