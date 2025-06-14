@@ -13,7 +13,7 @@ import {
     SiGit,
     SiLighthouse,
     SiGithub,
-    SiAi,
+    SiOpenai,
     SiGoogleanalytics,
     SiE,
     SiVercel,
@@ -63,7 +63,7 @@ export const Text = () => {
                     <SiGithub color="#FFFFFF" /> GitHub
                 </li>
                 <li>
-                    <SiAi color="#2C9C5E" /> AI Prompt Engineering
+                    <SiOpenai color="#2C9C5E" /> AI Prompt Engineering
                 </li>
                 <li>
                     <SiE color="#0A66C2" /> SEO Optimization
