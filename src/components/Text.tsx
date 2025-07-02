@@ -12,6 +12,7 @@ import {
     SiWordpress,
     SiGit,
     SiLighthouse,
+    SiE,
     SiGithub,
     SiOpenai,
     SiGoogleanalytics,
