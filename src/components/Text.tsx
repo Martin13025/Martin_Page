@@ -15,7 +15,6 @@ import {
     SiGithub,
     SiOpenai,
     SiGoogleanalytics,
-    SiE,
     SiVercel,
     SiPostman
 } from "react-icons/si";
