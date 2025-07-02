@@ -17,10 +17,11 @@ import {
     SiGoogleanalytics,
     SiE,
     SiVercel,
-    SiPostman,
+    SiPostman
 } from "react-icons/si";
 
-import { FaTools } from "react-icons/fa"; 
+
+import { FaTools } from "react-icons/fa";
 
 export const Text = () => {
     return (
@@ -69,13 +70,16 @@ export const Text = () => {
                     <SiOpenai color="#2C9C5E" /> AI Prompt Engineering
                 </li>
                 <li>
+                    <SiE color="#0A66C2" /> SEO Optimization
+                </li>
+                <li>
+                    <SiGoogleanalytics color="#F4B400" /> Google Analytics
+                </li>
+                <li>
                     <SiPostman color="#FF6C37" /> Postman
                 </li>
                 <li>
                     <FaTools color="#FB7A24" /> XAMPP
-                </li>
-                <li>
-                    <SiGoogleanalytics color="#F4B400" /> Google Analytics
                 </li>
             </ul>
             <hr />
