@@ -15,10 +15,12 @@ import {
     SiGithub,
     SiOpenai,
     SiGoogleanalytics,
-    SiPostman, // добавлено
+    SiE,
+    SiVercel,
+    SiPostman,
 } from "react-icons/si";
 
-import { FaTools } from "react-icons/fa"; // временно для XAMPP
+import { FaTools } from "react-icons/fa"; 
 
 export const Text = () => {
     return (
