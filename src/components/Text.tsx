@@ -28,7 +28,7 @@ export const Text = () => {
         <div className="transparent">
             <img src={avatar} alt="avatar" className="avatar" />
             <h2>Martin Daniels</h2>
-            <h3>React Developer / SEO Specialist</h3>
+            <h3>[React Developer | SEO Specialist | Systems Analyst | AI Prompt Engineer]</h3>
             <ul>
                 <li>
                     <SiHtml5 color="#E34F26" /> HTML
