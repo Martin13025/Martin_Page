@@ -87,17 +87,23 @@ export const Text = () => {
             <ul>
                 <li>
                     <SiVercel />
-                    <a
-                        href="https://vercel.com/martin13025s-projects"
-                        style={{
-                            textDecoration: "none",
-                            color: "white",
-                            transition: "color 0.3s ease",
-                        }}
-                        onMouseOver={(e) => (e.currentTarget.style.color = "#ccc")}
-                        onMouseOut={(e) => (e.currentTarget.style.color = "white")}
-                    >
-                        Vercel
+                    <a href="https://restaurant-website-livid-sigma.vercel.app/">
+                        Restaurant Website
+                    </a>
+                    <a href="https://optimiz-ar-digital.vercel.app/">
+                        Web Sitio sobre un negocio en Marketing
+                    </a>
+                    <a href="https://bank-application-ruby.vercel.app/">
+                        Web Aplicacion Bancario
+                    </a>
+                    <a href="https://games-crown-game-site.vercel.app/">
+                        Web Online Tienda Juegos De Computadora
+                    </a>
+                    <a href="https://language-site-alpha.vercel.app/">
+                        Sitio web Para Cursos De Idiomas Publicitarios
+                    </a>
+                    <a href="https://home-heaven-inky.vercel.app/">
+                        Sitio web para tienda de muebles online
                     </a>
                 </li>
             </ul>
