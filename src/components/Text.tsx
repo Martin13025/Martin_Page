@@ -89,19 +89,19 @@ export const Text = () => {
                     <SiVercel />
                     <a href="https://restaurant-website-livid-sigma.vercel.app/">
                         Restaurant Website
-                    </a>
+                    </a> <br/>
                     <a href="https://optimiz-ar-digital.vercel.app/">
                         Web Sitio sobre un negocio en Marketing
-                    </a>
+                    </a> <br/>
                     <a href="https://bank-application-ruby.vercel.app/">
                         Web Aplicacion Bancario
-                    </a>
+                    </a> <br/>
                     <a href="https://games-crown-game-site.vercel.app/">
                         Web Online Tienda Juegos De Computadora
-                    </a>
+                    </a> <br/>
                     <a href="https://language-site-alpha.vercel.app/">
                         Sitio web Para Cursos De Idiomas Publicitarios
-                    </a>
+                    </a> <br/>
                     <a href="https://home-heaven-inky.vercel.app/">
                         Sitio web para tienda de muebles online
                     </a>
