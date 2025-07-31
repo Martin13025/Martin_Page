@@ -96,9 +96,6 @@ export const Text = () => {
                     <a href="https://bank-application-ruby.vercel.app/">
                         Web Aplicacion Bancario
                     </a> <br/><hr/>
-                    <a href="https://games-crown-game-site.vercel.app/">
-                        Web Online Tienda Juegos De Computadora
-                    </a> <br/><hr/>
                     <a href="https://language-site-alpha.vercel.app/">
                         Sitio web Para Cursos De Idiomas Publicitarios
                     </a> <br/><hr/>
