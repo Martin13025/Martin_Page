@@ -6,14 +6,7 @@ const Socials = () => {
       <h2>Socials</h2>
       <div className="socials-container">
         <a
-          href="https://www.linkedin.com/in/martin-daniels-a6b2b7269"
-          target="_blank"
-          className="social-icon"
-        >
-          <i className="fab fa-linkedin"></i>
-        </a>
-        <a
-          href="https://github.com/Martin13025"
+             href="https://github.com/Martin13025"
           target="_blank"
           className="social-icon"
         >
