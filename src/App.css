@@ -5,35 +5,54 @@
   padding: 20px;
 }
 
-@media (max-width: 768px) {
-  #root {
-    padding: 10px;
-  }
 
-  h2 {
-    font-size: 1.5rem;
-  }
+@media (max-width: 1024px) {
+    .transparent {
+        padding: 1.5rem;
+        max-width: 100%;
+    }
 
-  h3 {
-    font-size: 1.2rem;
-  }
+    ul {
+        grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+        gap: 0.5rem;
+    }
 
-  ul {
-    padding: 0;
-    list-style: none;
-  }
+    h2 {
+        font-size: 1.5rem;
+    }
 
-  li {
-    font-size: 1rem;
-    margin-bottom: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-  }
-
-  img.avatar {
-    width: 120px;
-    height: 120px;
-  }
+    h3 {
+        font-size: 1rem;
+        text-align: center;
+    }
 }
+
+@media (max-width: 600px) {
+    .avatar {
+        width: 100px;
+        height: 100px;
+    }
+
+    h2 {
+        font-size: 1.3rem;
+    }
+
+    h3 {
+        font-size: 0.95rem;
+    }
+
+    ul {
+        grid-template-columns: 1fr;
+    }
+
+    ul li {
+        justify-content: flex-start;
+        font-size: 0.9rem;
+    }
+
+    a {
+        font-size: 0.95rem;
+        word-break: break-word;
+    }
+}
+
