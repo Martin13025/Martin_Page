@@ -1,6 +1,6 @@
 const textBlocksEN = [
     `Martin Daniels
-React - developer / SEO Specialist / Systems Analyst / AI Prompt Engineer
+React - developer / SEO Keyword Analyst / Systems Analyst / AI Prompt Engineer
 [HTML | CSS | JavaScript | React | Next.js | TypeScript | GitHub | Git | Wordpress | Open AI | Figma | Vite | MySQL]
 
 My Gmail: danpain800@gmail.com
@@ -48,11 +48,11 @@ Lighthouse load speed optimization, SEO strategy design
 `,
     `Experience
 Honest Team - Total 11 months
-Search Engine Optimization Executive
+SEO Keyword Analyst
 February 2025 - Present (6 months), Poland
 Led SEO optimization for multiple projects, increasing organic traffic by 35%. Conducted SEO audits and competitor analysis resulting in 30% improvement in conversions.
 
-Search Engine Optimization Analyst
+SEO Keyword Analyst
 October 2024 - February 2025 (5 months), Poland
 Executed 50+ SEO projects, increasing organic traffic by 50% for key projects. Optimized SEO for e-commerce sites, boosting conversions by 40%.
 
@@ -73,7 +73,7 @@ Information systems and programming (Sept 2022 - February 2026)
 
 const textBlocksES = [
     `Martin Daniels
-Desarrollador React / Especialista SEO / Analista de Sistemas / Ingeniero de Prompt AI
+Desarrollador React / Analista de palabras clave SEO / Analista de Sistemas / Ingeniero de Prompt AI
 [JavaScript | React | Next.js | TypeScript | GitHub | Git | Wordpress | Open AI | Figma | Vite | MySQL]
 
 Mi correo: danpain800@gmail.com
@@ -121,11 +121,11 @@ Optimización de velocidad con Lighthouse, diseño de estrategia SEO
 `,
     `Experiencia
 Honest Team - Total 11 meses
-Ejecutivo de Optimización en Motores de Búsqueda
+Analista de palabras clave SEO
 Febrero 2025 - Presente (6 meses), Polonia
 Lideré la optimización SEO para múltiples proyectos, aumentando el tráfico orgánico en un 35%. Realicé auditorías SEO y análisis de competidores que resultaron en una mejora del 30% en conversiones.
 
-Analista de Optimización en Motores de Búsqueda
+Analista de palabras clave SEO
 Octubre 2024 - Febrero 2025 (5 meses), Polonia
 Ejecuté más de 50 proyectos SEO, aumentando el tráfico orgánico en un 50% para proyectos clave. Optimicé SEO para sitios de comercio electrónico, incrementando las conversiones en un 40%.
 
@@ -217,5 +217,6 @@ langToggleBtn.addEventListener("click", () => {
     }
     startTyping();
 });
+
 
 startTyping();
