@@ -1,12 +1,12 @@
 const textBlocksEN = [
     `Martin Daniels
-React - developer / SEO Keyword Analyst / Systems Analyst / AI Prompt Engineer
+React - developer / SEO Keyword Analyst / Systems Analyst / AI Prompt Engineer / Full Stack Developer
 [HTML | CSS | JavaScript | React | Next.js | TypeScript | GitHub | Git | Wordpress | Open AI | Figma | Vite | MySQL]
 
 My Gmail: danpain800@gmail.com
 `,
     `Summary
-I am a frontend developer with more than 3 years of experience in building scalable web applications using React and Next.js. Throughout my career, I have also led SEO optimization projects that have increased organic traffic and improved conversions.
+I am a frontend developer with more than 8 years of experience in building scalable web applications using React and Next.js. Throughout my career, I have also led SEO optimization projects that have increased organic traffic and improved conversions.
 
 My approach is based on integrating advanced technological solutions that improve both the user experience and visibility in search engines.
 
@@ -35,7 +35,7 @@ I can work independently or together with developers, marketers and other creati
 
 `,
     `Stack:
-React, Next.js, JavaScript, TypeScript, Redux, React Router, Vite
+React, Next.js, JavaScript, TypeScript, Redux, React Router, Vite, Node.js
 HTML, CSS, SASS, Styled Components,
 Web performance optimization, unit testing (Jest), RESTful API integration, MySQL, Postman
 
@@ -58,7 +58,7 @@ Executed 50+ SEO projects, increasing organic traffic by 50% for key projects. O
 
 Freelance | Self-employment
 Frontend Web Developer
-September 2022 - Present (2 years 10 months), Turkey
+September 2017 - Present (8 years)
 Created and optimized web applications, improving site speed by up to 50%. Developed reusable components and integrated RESTful APIs.
 
 `,
@@ -67,19 +67,19 @@ Escuela Da Vinci
 Systems Analyst (August 2024)
 
 International East European University
-Information systems and programming (Sept 2022 - February 2026)
+Information systems and programming
 `,
 ];
 
 const textBlocksES = [
     `Martin Daniels
-Desarrollador React / Analista de palabras clave SEO / Analista de Sistemas / Ingeniero de Prompt AI
+Desarrollador React / Analista de palabras clave SEO / Analista de Sistemas / Ingeniero de Prompt AI / Full Stack Desarollador
 [JavaScript | React | Next.js | TypeScript | GitHub | Git | Wordpress | Open AI | Figma | Vite | MySQL]
 
 Mi correo: danpain800@gmail.com
 `,
     `Resumen
-Soy un desarrollador frontend con más de 3 años de experiencia en la construcción de aplicaciones web escalables usando React y Next.js. A lo largo de mi carrera, también he liderado proyectos de optimización SEO que aumentaron el tráfico orgánico y mejoraron las conversiones.
+Soy un desarrollador frontend con más de 8 años de experiencia en la construcción de aplicaciones web escalables usando React y Next.js. A lo largo de mi carrera, también he liderado proyectos de optimización SEO que aumentaron el tráfico orgánico y mejoraron las conversiones.
 
 Mi enfoque se basa en integrar soluciones tecnológicas avanzadas que mejoran tanto la experiencia del usuario como la visibilidad en los motores de búsqueda.
 
@@ -108,7 +108,7 @@ Puedo trabajar de forma independiente o junto con desarrolladores, mercadólogos
 
 `,
     `Stack:
-React, Next.js, JavaScript, TypeScript, Redux, React Router, Vite
+React, Next.js, JavaScript, TypeScript, Redux, React Router, Vite, Node.js
 HTML, CSS, SASS, Styled Components,
 Optimización de rendimiento web, pruebas unitarias (Jest), integración RESTful API, MySQL, Postman
 
@@ -220,3 +220,4 @@ langToggleBtn.addEventListener("click", () => {
 
 
 startTyping();
+
