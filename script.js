@@ -157,7 +157,7 @@ function typeText(text, callback) {
         const char = text[charIndex];
         terminal.innerHTML += char === "\n" ? "<br>" : char;
         charIndex++;
-        setTimeout(() => typeText(text, callback), 5);
+        setTimeout(() => typeText(text, callback), 1);
     } else {
         callback();
     }
@@ -220,4 +220,5 @@ langToggleBtn.addEventListener("click", () => {
 
 
 startTyping();
+
 
