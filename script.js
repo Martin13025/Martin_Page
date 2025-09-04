@@ -169,7 +169,7 @@ function startTypingBlocks(textBlocks) {
         typeText(textBlocks[blockIndex], () => {
             terminal.innerHTML += "<br><br>";
             blockIndex++;
-            setTimeout(() => startTypingBlocks(textBlocks), 700);
+            setTimeout(() => startTypingBlocks(textBlocks), 400);
         });
     } else {
         terminal.innerHTML += '<span class="cursor"></span>';
@@ -220,5 +220,6 @@ langToggleBtn.addEventListener("click", () => {
 
 
 startTyping();
+
 
 
