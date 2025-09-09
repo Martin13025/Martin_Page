@@ -97,9 +97,9 @@ He participado en proyectos donde combino análisis funcional con diseño visual
 Puedo trabajar de forma independiente o junto con desarrolladores, mercadólogos y otros perfiles creativos.
 `,
     `Stack tecnológico:
-**Frontend:** React, Next.js, JavaScript (ES6+), TypeScript, Redux, React Router, HTML5, CSS3, SASS, Styled Components, Vite
-**Backend & APIs:** Node.js (integración básica), RESTful API integration, MySQL
-**Testing & Tools:** Jest, Postman, Optimización de rendimiento web
+- Frontend: React, Next.js, JavaScript (ES6+), TypeScript, Redux, React Router, HTML5, CSS3, SASS, Styled Components, Vite
+- Backend & APIs: Node.js (integración básica), RESTful API integration, MySQL
+- Testing & Tools: Jest, Postman, Optimización de rendimiento web
 `,
     `Experiencia
 Honest Team - Total 11 meses
@@ -116,10 +116,10 @@ Desarrollador Web Frontend
 Septiembre 2017 - Presente (8 años)
 
 Proyectos con clientes:
-- **EcomNova LATAM (mercado e-commerce argentino)** – mejoré la velocidad de carga del sitio en un 48% mediante optimización de componentes React y lazy loading.
-- **Fintrack Solutions (startup fintech, EE.UU.)** – implementé un dashboard responsive con integración de APIs RESTful y actualizaciones de datos en tiempo real.
-- **EduGlobal Network (España, plataforma de idiomas online)** – creé un sistema modular de componentes UI para escalabilidad de la interfaz.
-- **MediCarex Digital (Chile, servicio de salud)** – aseguré compatibilidad cross-browser y mejoré la accesibilidad (WCAG 2.1).
+- EcomNova LATAM (mercado e-commerce argentino) – mejoré la velocidad de carga del sitio en un 48% mediante optimización de componentes React y lazy loading.
+- Fintrack Solutions (startup fintech, EE.UU.) – implementé un dashboard responsive con integración de APIs RESTful y actualizaciones de datos en tiempo real.
+- EduGlobal Network (España, plataforma de idiomas online) – creé un sistema modular de componentes UI para escalabilidad de la interfaz.
+- MediCarex Digital (Chile, servicio de salud) – aseguré compatibilidad cross-browser y mejoré la accesibilidad (WCAG 2.1).
 `,
     `Educación
 Escuela Da Vinci
@@ -207,6 +207,7 @@ langToggleBtn.addEventListener("click", () => {
 
 
 startTyping();
+
 
 
 
