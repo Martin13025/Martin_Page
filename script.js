@@ -31,9 +31,9 @@ I have participated in projects where I combine functional analysis with visual 
 I can work independently or together with developers, marketers and other creative profiles.
 `,
     `Tech Stack:
-**Frontend:** React, Next.js, JavaScript (ES6+), TypeScript, Redux, React Router, HTML5, CSS3, SASS, Styled Components, Vite
-**Backend & APIs:** Node.js (basic integration), RESTful API integration, MySQL
-**Testing & Tools:** Jest, Postman, Web performance optimization
+- Frontend: React, Next.js, JavaScript (ES6+), TypeScript, Redux, React Router, HTML5, CSS3, SASS, Styled Components, Vite
+- Backend & APIs: Node.js (basic integration), RESTful API integration, MySQL
+- Testing & Tools: Jest, Postman, Web performance optimization
 `,
     `Experience
 Honest Team - Total 11 months
@@ -50,10 +50,10 @@ Frontend Web Developer
 September 2017 - Present (8 years)
 
 Projects with clients:
-- **EcomNova LATAM (Argentinian e-commerce marketplace)** – improved site loading speed by 48% through React component optimization and lazy loading.
-- **Fintrack Solutions (US fintech startup)** – implemented a responsive dashboard with RESTful API integration and real-time data updates.
-- **EduGlobal Network (Spain, online language platform)** – created a modular UI component system for interface scalability.
-- **MediCarex Digital (Chile, healthcare service)** – ensured cross-browser compatibility and improved accessibility (WCAG 2.1).
+- EcomNova LATAM (Argentinian e-commerce marketplace) – improved site loading speed by 48% through React component optimization and lazy loading.
+- Fintrack Solutions (US fintech startup) – implemented a responsive dashboard with RESTful API integration and real-time data updates.
+- EduGlobal Network (Spain, online language platform) – created a modular UI component system for interface scalability.
+- MediCarex Digital (Chile, healthcare service) – ensured cross-browser compatibility and improved accessibility (WCAG 2.1).
 `,
     `Education
 Escuela Da Vinci
@@ -207,6 +207,7 @@ langToggleBtn.addEventListener("click", () => {
 
 
 startTyping();
+
 
 
 
